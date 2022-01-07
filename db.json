@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Post 1",
       "day": "Feb 5th at 2:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
@@ -21,14 +21,20 @@
     {
       "text": "夏祭り",
       "day": "今日",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     },
     {
-      "text": "私のアメリカ人です",
+      "text": "私がアメリカ人です",
       "day": "１２４３",
-      "reminder": false,
+      "reminder": true,
       "id": 6
+    },
+    {
+      "text": "今日だけに",
+      "day": "Jan 7th 8:32pm",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
